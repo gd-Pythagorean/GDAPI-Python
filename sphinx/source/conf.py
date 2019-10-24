@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'gdedit-py'
+project = 'gdapi-py'
 copyright = '2019, xSlendiX, GD-EDIT Team'
 author = 'xSlendiX, GD-EDIT Team'
 

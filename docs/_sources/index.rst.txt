@@ -1,11 +1,13 @@
-Welcome to gdedit-py's documentation!
+Welcome to gdapi-py's documentation!
 =====================================
+
+# DOCUMENTATION IS STILL IN WORK IN PROGRESS!!!!
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: gdedit.enums.gd
+.. automodule:: gdapi.enums.gd
     :members:
 
 
