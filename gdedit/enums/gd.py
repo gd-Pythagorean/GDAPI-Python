@@ -171,6 +171,8 @@ class LevelLength(Enum):
 
 class ObjectProperty(Enum):
 
+    '''This enumeration provides values for the properties of a LevelObject.'''
+
     ID = 1
     X = 2
     Y = 3
